@@ -1,3 +1,9 @@
+
+<img width="1536" height="1024" alt="02811AA7-2142-4A43-8E9C-E9A813D9DE8E" src="https://github.com/user-attachments/assets/1fe0b4d1-3885-4e01-a543-aafe24de502a" />
+
+
+
+
 # Regionally Distributed Central AI System
 
 The project has officially initiated its implementation phase.
